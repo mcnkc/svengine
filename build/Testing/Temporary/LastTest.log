@@ -1,0 +1,35 @@
+Start testing: Nov 26 12:31 +03
+----------------------------------------------------------
+1/2 Testing: physics_tests
+1/2 Test: physics_tests
+Command: "/home/dasii/Masaüstü/kisisel/svengine/build/physics_tests"
+Directory: /home/dasii/Masaüstü/kisisel/svengine/build
+"physics_tests" start time: Nov 26 12:31 +03
+Output:
+----------------------------------------------------------
+All physics tests passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"physics_tests" end time: Nov 26 12:31 +03
+"physics_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/2 Testing: camera_tests
+2/2 Test: camera_tests
+Command: "/home/dasii/Masaüstü/kisisel/svengine/build/camera_tests"
+Directory: /home/dasii/Masaüstü/kisisel/svengine/build
+"camera_tests" start time: Nov 26 12:31 +03
+Output:
+----------------------------------------------------------
+All camera tests passed
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"camera_tests" end time: Nov 26 12:31 +03
+"camera_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 26 12:31 +03

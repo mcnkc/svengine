@@ -1,0 +1,9 @@
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/physics.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/physics_tests.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/camera_tests.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/camera.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/renderer.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/physics_sandbox.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/test.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/edit_cache.dir
+/home/dasii/Masaüstü/kisisel/svengine/build/CMakeFiles/rebuild_cache.dir
